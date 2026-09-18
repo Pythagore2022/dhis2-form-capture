@@ -1,5 +1,9 @@
 # AI-Assisted Form Capture for DHIS2
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22822918.svg)](https://doi.org/10.5281/zenodo.22822918)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Tests](https://img.shields.io/badge/tests-72%20passing-brightgreen.svg)](tests/)
+
 **Turn a photographed paper health form into a verified DHIS2 tracker record.**
 
 In most facilities running DHIS2, data begins life on paper. Someone retypes it
