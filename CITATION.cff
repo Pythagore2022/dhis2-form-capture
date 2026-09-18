@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: AI-Assisted Form Capture for DHIS2
+message: >-
+  If you use this software, please cite it and acknowledge the prior work of
+  SolidLines Tech Services described in the README.
+type: software
+authors:
+  - family-names: Donfouet
+    given-names: Hermann Pythagore Pierre
+    # orcid: https://orcid.org/0000-0000-0000-0000   # add yours
+repository-code: https://github.com/USERNAME/dhis2-form-capture
+license: MIT
+keywords:
+  - dhis2
+  - global health
+  - health informatics
+  - data entry
+  - low- and middle-income countries
