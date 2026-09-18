@@ -7,8 +7,8 @@ type: software
 authors:
   - family-names: Donfouet
     given-names: Hermann Pythagore Pierre
-    # orcid: https://orcid.org/0000-0000-0000-0000   # add yours
-repository-code: https://github.com/USERNAME/dhis2-form-capture
+    # https://orcid.org/0000-0001-6281-7313
+repository-code: https://github.com/Pythagore2022/dhis2-form-capture
 license: MIT
 keywords:
   - dhis2
